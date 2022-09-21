@@ -1,0 +1,18 @@
+@import url("./styles.css");
+
+.header {
+  width: 100%;
+}
+.logo {
+  justify-content: center;
+}
+.menu {
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem;
+}
+li,
+a {
+  text-decoration: none;
+  list-style-type: none;
+}
